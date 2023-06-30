@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 printf '%.2f\n' $NUM
+=======
+printf "%.2f\n" $NUM
+>>>>>>> ab0c8b0fe69c9243ee36051d3f9de02c1b9bc817
